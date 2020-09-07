@@ -1,0 +1,79 @@
+body{
+    background-color:  #E5E5E5;
+}
+.navbar img{
+    width: 56px;
+    height: 56px;
+}
+.navbar-brand{margin-left: 200px;
+    
+}
+.navbar-nav{
+    margin-right: 220px;
+}
+.top-player img{
+    width: 56px;
+}
+main{
+    width: 870px;
+    background-color:  #FFFFFF;
+    height: 680px;
+    margin: 20px auto;
+   
+}
+hr{
+    border: 1px solid gray;
+    margin-left: 20px;margin-right: 50px;
+}
+hr:hover{border:1px solid red;
+}
+.blog{padding-top: 20px;overflow: hidden;flex-wrap: wrap;
+}
+.blog img{
+    width: 177px;height: 117px;
+}
+.text-part span{
+    color:  #9F9F9F;margin-right: 2px;
+}
+.text-part p{
+    color: rgb(98, 92, 177);
+    
+}
+.lates-course{
+    width: 870px;
+    height: 500px;
+    background-color:#FFFFFF;
+   
+}
+.card-row{
+    width: 830px;
+    padding-top: 50px;
+}
+.card{
+    height: 300px;
+    padding-top: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 40px beige;
+}
+.card-img-top{width: 220px;
+  margin-top: 10px;margin-left: 10px;
+}
+.card-text{position: relative;}
+.icon-style{
+    width: 10px;
+}
+.card-text small{
+    position: absolute;
+    top: 5px;
+    left: 70px;
+}
+.card-icon{
+    position: absolute;
+    top: 240px;
+    left: 150px;
+    background-color: #c59d9d;
+    border-radius: 10px;
+    
+}
+.time-position{display: inline;padding-right: 8px; color: rgb(105, 29, 29);
+}
